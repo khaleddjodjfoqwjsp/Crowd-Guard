@@ -10,7 +10,7 @@ To conclude, crowding is a grave challenge for many regions; however, it can be 
 ## 📐 Project Files & Downloads
 
 * **3D CAD Model :** https://cad.onshape.com/documents/caed0649f48957575ee98a36/w/9fba59ddc9e91909b82d6cf2/e/f387e753fe8c654746c10a25
-* **Bill of Materials (BOM List):** [Book1.csv](https://github.com/user-attachments/files/28184204/Book1.csv)#include <LiquidCrystal.h>
+* **Bill of Materials (BOM List):** [Book1.csv](https://github.com/user-attachments/files/28184204/Book1.csv)
 * **Arduino Firmware Source Code:** 
 
 #include <LiquidCrystal.h>
