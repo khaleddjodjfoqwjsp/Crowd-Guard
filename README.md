@@ -13,7 +13,7 @@ FIGURE 2
 3.<img width="997" height="719" alt="Screenshot 2026-05-25 002316" src="https://github.com/user-attachments/assets/3d55a29f-1a83-455a-88a7-f8cbbf84cabf" />
 FIGURE3
 ---
-4.<img width="846" height="506" alt="Screenshot 2026-05-24 235858" src="https://github.com/user-attachments/assets/a3a77e25-f482-4112-88e5-e1789382bcc9" />
+4.<img width="846" height="700" alt="Screenshot 2026-05-24 235858" src="https://github.com/user-attachments/assets/a3a77e25-f482-4112-88e5-e1789382bcc9" />
 FIGURE 4
 ---
 The method section. It begins with gathering the materials, then printing the 3D design that contains the components. Moreover, placing every piece in its location laterally connects the wires to the Arduino or the breadboard that links to the Arduino, as well, making the structure cleaner. If the system were applied in real life, it would be connected with electronic doors in the metros to make it affordable with the number of people.
