@@ -25,7 +25,17 @@ The method section. It begins with gathering the materials, then printing the 3D
  | **65pcs jumper wires** | 1 | 0.75$ | https://free-electronic.com/product/65pcs-flexible-breadboard-jumper-wires/ |
  | **passive buzzer** | 1 | 0.47$ | https://free-electronic.com/product/passive-buzzer-module/ |  
  | **resistor** | 10 | 0.14$ | https://free-electronic.com/product/resistor-15-ohm-1w/ | 
+ 
+---
 
+## 🔌 Wiring Diagram & Pinouts
+
+* **Ultrasonic sensor 1 (IN):** Trig -> Pin 5, Echo -> Pin 4
+* **Ultrasonic sensor 2 (OUT):** Trig -> Pin 3, Echo -> Pin 2
+* **LCD Display (16x2):** Rs -> Pin 7, E -> Pin 8, DB4 -> Pin 9, DB5 -> Pin 10, DB 6 -> Pin 11, DB7 -> Pin 12
+* **Indicators:** Red LED -> A0, Green LED -> A1, Buzzer -> Pin 6
+
+---
 
 ## 📐 Project Files & Downloads
 
