@@ -37,6 +37,16 @@ The method section. It begins with gathering the materials, then printing the 3D
 
 ---
 
+## 🪚 step-by-step build
+
+1. **Bring all the components from the (BOM) section.
+2. **Connect the Arduino Uno to the breadboard and wire the two HC-SR04 ultrasonic sensors to the negative and positive for the GND and Vcc, in order, then the trig and echo pins connect to the Arduino Pins as shown in the Wiring Diagram & Pinout section.
+3. **Connect the 16x2 LCD screen, LEDs, and Buzzer according to the Pinouts diagram above; moreover, the GND for them all is in the negative breadboard below.
+4. **	Open the firmware, then open Crowd_Guard.ino file using the Arduino IDE, connect your Arduino Uno via USB, and upload the source code.
+5. **	Finally, the system will start and display visitors: 0 once a person passes sensor 1, then sensor 2, and the green LED lights. If the room is full of people and hits its maximum limit, the red LED lights up, and the buzzer activates.
+
+---
+
 ## 📐 Project Files & Downloads
 
 * **CAD Model :** https://www.tinkercad.com/things/8HilV4kWgzi-dazzling-stantia-jarv/editel?returnTo=%2Fthings%2F8HilV4kWgzi-dazzling-stantia-jarv&sharecode=XAZO_gPVFohwqqy-DORh4Og6WR8cnIsBU40W7ztHvt8
