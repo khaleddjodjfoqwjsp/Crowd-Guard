@@ -158,8 +158,11 @@ void loop() {
 
 To verify that the system performs its function correctly, follow these steps.
 1.*Power check:* Connects to your laptop or computer via USB. Ensure that the green power LED on the Arduino board turns on and the 16x2 lights up as well.
+
 2.*Sensor test:* By observing the distance readings. Ensure both ultrasonic sensors display values when your hand moves closer/ further.
+
 3.*Counter verification:* Wave your hand in front of the ultrasonic sensor, then the LCD must update from visitors: 0 to visitors: 1.
+
 4.*Alert Test:* simulate the entire system until the counter reaches your set maxpeople, then ensure the Red LED immediately switches on, the Green LED turns off, and the Buzzer makes a sound while the LCD reads "ROOM is FULL".
  
 ---
