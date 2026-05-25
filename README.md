@@ -11,7 +11,7 @@ Even with the 3D design, it isn’t enough to make the prototype in real life, d
 FIGURE 2
 ---
 3.<img width="997" height="719" alt="Screenshot 2026-05-25 002316" src="https://github.com/user-attachments/assets/3d55a29f-1a83-455a-88a7-f8cbbf84cabf" />
-FIGURE3
+FIGURE 3
 ---
 4.<img width="846" height="700" alt="Screenshot 2026-05-24 235858" src="https://github.com/user-attachments/assets/a3a77e25-f482-4112-88e5-e1789382bcc9" />
 FIGURE 4
