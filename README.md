@@ -45,7 +45,7 @@ The method section. It begins with gathering the materials, then printing the 3D
 
 ---
 
-## 🪚 step-by-step build
+## 🪚 How to build step-by-step
 
 1. Bring all the components from the (BOM) section.
 2. Connect the Arduino Uno to the breadboard and wire the two HC-SR04 ultrasonic sensors to the negative and positive for the GND and Vcc, in order, then the trig and echo pins connect to the Arduino Pins as shown in the Wiring Diagram & Pinout section.
