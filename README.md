@@ -19,7 +19,7 @@ The method section. It begins with gathering the materials, then printing the 3D
 * 
 * **Bill of Materials (BOM List):** [BOM.csv](https://github.com/user-attachments/files/28216923/BOM.csv)
 * 
-* **Arduino Firmware Source Code:** 
+* **Arduino Code:** 
 
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(7, 8, 9, 10, 11, 12);  // shows the pins of the LCD that connect to Arduino 
