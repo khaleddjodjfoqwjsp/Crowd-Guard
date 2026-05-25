@@ -9,7 +9,7 @@ FIGURE 2
 FIGURE 3
 
 The method section. It begins with gathering the materials, then printing the 3D design that contains the components. Moreover, placing every piece in its location laterally connects the wires to the Arduino or the breadboard that links to the Arduino, as well, making the structure cleaner. If the system were applied in real life, it would be connected with electronic doors in the metros to make it affordable with the number of people.
- To conclude, crowding is a grave challenge for many regions; however, it can be solved by consuming new ideas, such as the Crowd Guard, which contributes to decreasing the crowd and returning life to closed places, such as the metro, where the crowd causes many issues, including health care disasters, inefficient public services, and improving the country's facilities even for tourists.
+* To conclude, crowding is a grave challenge for many regions; however, it can be solved by consuming new ideas, such as the Crowd Guard, which contributes to decreasing the crowd and returning life to closed places, such as the metro, where the crowd causes many issues, including health care disasters, inefficient public services, and improving the country's facilities even for tourists.
 
 ---
 
