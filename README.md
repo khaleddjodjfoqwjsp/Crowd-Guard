@@ -2,10 +2,11 @@
 
 * Egypt faces several grand challenges, such as reducing urban congestion, which is one of the most crowded countries in the world, and additionally has one of the most crowded cities, which is Cairo, where it is the 7th most crowded city in the world. This issue is reflected in closed facilities, particularly metros and malls, thus it affects individuals harmfully in multiple ways, which increases accidents and even leads to death, also reduces public services badly. Since I was young, it made me upset with life, with all this crowded world, where it cannot be solved by traditional ways via workers who aren’t able to face the high number of people, thus it inspires me to look forward to addressing this issue in my country. 
 * Since the first time I saw this problem, I realized that it wouldn't be solved without the power of a smart device. You can say that it was the door that made me interested in this field; fortunately, the day came to be able to address this problem with a crowd system called Crowd Guard. It is a system that detects the people who enter and leave the place using an ultrasonic sensor connected to the Arduino Uno, which is the heart of this project. The ultrasonic sensor sends waves and measures the reflected waves to determine whether there are people. It then counts them, sends the signal to the Arduino, and displays the number of people entering and exiting on the LCD. Moreover, if the number of people in the closed place exceeds the limit, it sends a signal to the buzzer to turn it on. Furthermore, there are green and red lights to display if the region is saturated with people or not, thus, it can regulate the crowd efficiently and warn people of this problem and reduce multiple accident come from crowding. Nevertheless, to ensure the project's stability, I should simulate the project in real life by creating a prototype. Firstly, it requires 3d design that can hold the components, designing it on the Onshape website as shown in Figure 1.
-1.<img width="1080" height="771" alt="Screenshot 2026-05-24 003137" src="https://github.com/user-attachments/assets/541bb72f-9516-4160-87c6-866150d7397b" /> FIGURE 1
 
-Even with the 3D design, it isn’t enough to make the prototype in real life, due to the Arduino and the software system, including the circuit, must be created in the TinkerCad and PCB module, which is the brain of your project and mainly the purpose of it, as shown in Figures 2,3, amd 4.
+1.<img width="1080" height="771" alt="Screenshot 2026-05-24 003137" src="https://github.com/user-attachments/assets/541bb72f-9516-4160-87c6-866150d7397b" /> FIGURE 1
 ---
+Even with the 3D design, it isn’t enough to make the prototype in real life, due to the Arduino and the software system, including the circuit, must be created in the TinkerCad and PCB module, which is the brain of your project and mainly the purpose of it, as shown in Figures 2,3, amd 4.
+
 2.<img width="1098" height="713" alt="Screenshot 2026-05-24 003616" src="https://github.com/user-attachments/assets/9dfb8c87-6286-4e4f-aa1e-4e2b0c34a4b3" />
 FIGURE 2
 ---
@@ -14,7 +15,7 @@ FIGURE3
 ---
 4.<img width="846" height="506" alt="Screenshot 2026-05-24 235858" src="https://github.com/user-attachments/assets/a3a77e25-f482-4112-88e5-e1789382bcc9" />
 FIGURE 4
-
+---
 The method section. It begins with gathering the materials, then printing the 3D design that contains the components. Moreover, placing every piece in its location laterally connects the wires to the Arduino or the breadboard that links to the Arduino, as well, making the structure cleaner. If the system were applied in real life, it would be connected with electronic doors in the metros to make it affordable with the number of people.
 * To conclude, crowding is a grave challenge for many regions; however, it can be solved by consuming new ideas, such as the Crowd Guard, which contributes to decreasing the crowd and returning life to closed places, such as the metro, where the crowd causes many issues, including health care disasters, inefficient public services, and improving the country's facilities even for tourists.
 
