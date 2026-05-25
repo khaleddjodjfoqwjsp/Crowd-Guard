@@ -168,9 +168,9 @@ void loop() {
  
 ---
 
-### 🗣️ Goals
+### 🗣️ Motivation
 
-The goals behind Crowd Guard come from the grand challenges that face Egypt, particularly the reduction of urban congestion, which has one of the most crowded cities, Cairo, that ranks 7th in the world in terms of overcrowding in closed public facilities, metros, and malls, posing safety risks, and also reducing public efficiency, leading to accidents. This project was developed as a smart, crowded system automated solution using real-time sensors to monitor room saturation, manage crowd flow, and prevent its impacts before occurs.
+The Motivation behind Crowd Guard come from the grand challenges that face Egypt, particularly the reduction of urban congestion, which has one of the most crowded cities, Cairo, that ranks 7th in the world in terms of overcrowding in closed public facilities, metros, and malls, posing safety risks, and also reducing public efficiency, leading to accidents. This project was developed as a smart, crowded system automated solution using real-time sensors to monitor room saturation, manage crowd flow, and prevent its impacts before occurs.
 
 ---
 
