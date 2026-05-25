@@ -55,6 +55,11 @@ The method section. It begins with gathering the materials, then printing the 3D
 
 ---
 
+### 🗣️ Goals
+
+
+---
+
 ### 📐 Project Files & Downloads
 
 * **CAD Model :** https://www.tinkercad.com/things/8HilV4kWgzi-dazzling-stantia-jarv/editel?returnTo=%2Fthings%2F8HilV4kWgzi-dazzling-stantia-jarv&sharecode=XAZO_gPVFohwqqy-DORh4Og6WR8cnIsBU40W7ztHvt8
