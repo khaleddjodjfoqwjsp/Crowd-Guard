@@ -17,7 +17,7 @@ The method section. It begins with gathering the materials, then printing the 3D
 * 
 * **3D CAD Model :** https://cad.onshape.com/documents/caed0649f48957575ee98a36/w/9fba59ddc9e91909b82d6cf2/e/f387e753fe8c654746c10a25
 * 
-* **Bill of Materials (BOM List):** [BOM.csv](https://github.com/user-attachments/files/28184204/BOM.csv)
+* **Bill of Materials (BOM List):** [BOM.csv](https://github.com/user-attachments/files/28216923/BOM.csv)
 * 
 * **Arduino Firmware Source Code:** 
 
