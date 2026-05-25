@@ -11,6 +11,22 @@ FIGURE 3
 The method section. It begins with gathering the materials, then printing the 3D design that contains the components. Moreover, placing every piece in its location laterally connects the wires to the Arduino or the breadboard that links to the Arduino, as well, making the structure cleaner. If the system were applied in real life, it would be connected with electronic doors in the metros to make it affordable with the number of people.
  To conclude, crowding is a grave challenge for many regions; however, it can be solved by consuming new ideas, such as the Crowd Guard, which contributes to decreasing the crowd and returning life to closed places, such as the metro, where the crowd causes many issues, including health care disasters, inefficient public services, and improving the country's facilities even for tourists.
 
+---
+
+ ## 🛠️ Bill of Materials (BOM)
+ 
+ | Component | Quantity | Price | Purchase link |
+ | :--- | :---: | :--- | :--- |
+ | **Arduino Uno R3** | 1 | 6.59$ | https://free-electronic.com/product/arduino-uno-r3/ |
+ | **Ultrasonic sensor** | 2 | 1.51$ | https://free-electronic.com/product/ultrasonic-sensor-hc-sr04/ |
+ | **Breadboard** | 2 | 0.94$ | https://free-electronic.com/product/breadboard-soldless-400-tie-points/ |
+ | **LCD16 blue blacklight** | 1 | 4.90$ | https://free-electronic.com/product/lcd1604-blue-backlight/ |
+ | **LED60 mixed colors** | 1 | 0.85$ | https://free-electronic.com/product/led60-mixed-color-led-size-5mm-in-box/ |
+ | **65pcs jumper wires** | 1 | 0.75$ | https://free-electronic.com/product/65pcs-flexible-breadboard-jumper-wires/ |
+ | **passive buzzer** | 1 | 0.47$ | https://free-electronic.com/product/passive-buzzer-module/ |  
+ | **resistor** | 10 | 0.14$ | https://free-electronic.com/product/resistor-15-ohm-1w/ | 
+
+
 ## 📐 Project Files & Downloads
 
 * **CAD Model :** https://www.tinkercad.com/things/8HilV4kWgzi-dazzling-stantia-jarv/editel?returnTo=%2Fthings%2F8HilV4kWgzi-dazzling-stantia-jarv&sharecode=XAZO_gPVFohwqqy-DORh4Og6WR8cnIsBU40W7ztHvt8
