@@ -26,21 +26,27 @@ Smart Crowd Density System detects individuals in public areas. using the number
    - Limit the number of people who can enter the station to avoid danger.
    - Direct them to another station instead of the full one
   
-
-
- ### 🛠️ Bill of Materials (BOM)
+ ## 🛠️ Bill of Materials (BOM)
  
  | Component | Quantity | Price | Purchase link |
  | :--- | :---: | :--- | :--- |
- | **Arduino Uno R3** | 1 | 6.59$ | https://free-electronic.com/product/arduino-uno-r3/ |
+ | **ATMEGA328P-U** | 1 | 3.63$ | https://free-electronic.com/product/atmega328p-u/ |
  | **Ultrasonic sensor** | 2 | 1.51$ | https://free-electronic.com/product/ultrasonic-sensor-hc-sr04/ |
  | **Breadboard** | 2 | 0.94$ | https://free-electronic.com/product/breadboard-soldless-400-tie-points/ |
- | **LCD16 blue blacklight** | 1 | 4.90$ | https://free-electronic.com/product/lcd1604-blue-backlight/ |
+ | **LCD 16x2** | 1 | 1.24$ | https://free-electronic.com/product/lcd1602-blue-backlight-with-soldering-pin-header/ |
  | **LED60 mixed colors** | 1 | 0.85$ | https://free-electronic.com/product/led60-mixed-color-led-size-5mm-in-box/ |
  | **65pcs jumper wires** | 1 | 0.75$ | https://free-electronic.com/product/65pcs-flexible-breadboard-jumper-wires/ |
  | **passive buzzer** | 1 | 0.47$ | https://free-electronic.com/product/passive-buzzer-module/ |  
  | **resistor** | 10 | 0.14$ | https://free-electronic.com/product/resistor-15-ohm-1w/ | 
-
+ | **Battery** | 1 | 2.39$ | https://free-electronic.com/product/9v-varta-longlife-power-alkaline-battery/ | 
+ | **Battery Holder ( 9V )** | 1 | 0.23$ | https://free-electronic.com/product/battery-holder-9v/ |
+ | **Voltage Regulator** | 1 | 3.34$ | https://free-electronic.com/product/dc-voltage-regulator-buck-converter-6-36v-to-1-25-32v-5a-constant-current-voltage-mppt-solar-controller/ |
+ | **Crystal (16 MHz)** | 1 | 0.076$ | https://free-electronic.com/product/crystal-2-pin-16-mhz/ |
+ | **Capacitor (22pF)** | 1 | 0.019$ | https://free-electronic.com/product/ceramic-capacitor-22pf-50v/ |
+ | **Capacitor (100pF)** | 1 | 0.019$ | https://free-electronic.com/product/ceramic-capacitor-100nf-50v/ |
+ | **Resistor (220 ohm)** | 10 | 0.29$ | https://free-electronic.com/product/resistor-220-ohm-3w/ |
+ | **Pin Header 1x4** | 2 | 0.058$ | https://www.ram-e-shop.com/shop/ph35-1x4-female-ph35-pin-header-female-1x4-straight-2-54mm-6976?category=52 |
+ 
 ## 🔌 Wiring Diagram & Pinouts
 
 * **Ultrasonic sensor 1 (IN):** Trig -> Pin 5, Echo -> Pin 4
