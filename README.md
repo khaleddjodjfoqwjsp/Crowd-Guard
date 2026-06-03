@@ -189,12 +189,6 @@ void loop() {
 ## 📄 Magizine 
 <img width="627" height="895" alt="68e6218d9e3944f9a0d9e5dc418883ef" src="https://github.com/user-attachments/assets/63498329-2ceb-4854-b30c-644aeea82923" />
 
-### 📐 Project Files & Downloads
+## 📐 Project Files & Downloads
+[3D design](https://cad.onshape.com/documents/9b3eec702d73ff7e06d34b59/w/650e038821f09e03938fbb0c/e/957b83b2bb7a67a6845c884b)
 
-* **CAD Model:** https://www.tinkercad.com/things/8HilV4kWgzi-dazzling-stantia-jarv/editel?returnTo=%2Fthings%2F8HilV4kWgzi-dazzling-stantia-jarv&sharecode=XAZO_gPVFohwqqy-DORh4Og6WR8cnIsBU40W7ztHvt8
- 
-* **3D CAD Model:** https://cad.onshape.com/documents/caed0649f48957575ee98a36/w/9fba59ddc9e91909b82d6cf2/e/f387e753fe8c654746c10a25
-
-* **PCB Model:** https://pro.easyeda.com/editor#id=0c6ee2ec65e441f7a46460841b1e6fe4,tab=*76107cd34745442e8b4d125184b70596@0c6ee2ec65e441f7a46460841b1e6fe4|1609362261fa4e3ebf6dc0f360cb23d0@0c6ee2ec65e441f7a46460841b1e6fe4
- 
-* **Bill of Materials (BOM List):** [BOM.csv](https://github.com/user-attachments/files/28216923/BOM.csv)
