@@ -15,6 +15,16 @@ Smart Crowd Density System detects individuals in public areas. using the number
 - Ultrasonic sensors send the signal to the microcontroller, and display the number of people entering and exiting on the LCD.
 - If the number of people in the closed place exceeds the limit, it sends a signal to the buzzer to turn it on. 
 - There are green and red lights to display if the region is saturated with people or not, thus, it can regulate the crowd efficiently and warn people of this problem and reduce multiple accident come from crowding.
+
+## 📈 Usage
+1. If the system were applied in real life, it would be connected with electronic doors in the metros to make it affordable with the number of people.
+   - Manage the number of people.
+   - Warn the workers in the facility.
+   - Save many people from the impact of the crowd.
+   - Direct the people who can't enter the entrance to another one 
+2. Set it up on the metros
+   - Limit the number of people who can enter the station to avoid danger.
+   - Direct them to another station instead of the full one
   
 
 
