@@ -8,7 +8,7 @@ Smart Crowd Density System detects individuals in public areas. using the number
 - increases accidents in closed places and even leads to death, also reduces public services badly.
 
 ## 📄 Description
-<br>•	Crowd Guard is a system that detects people who enter and leave closed places using an ultrasonic sensor connected to the microcontroller Atmega328p, which is the brain of this project.
+•	Crowd Guard is a system that detects people who enter and leave closed places using an ultrasonic sensor connected to the microcontroller Atmega328p, which is the brain of this project.
 <br>•	The ultrasonic sensor sends waves and measures the reflected waves to determine whether there are people.
 <br>•	There are two ultrasonic sensors, one on the entrance and the other on the exit.
 <br>•	If the ultrasonic entrance detects anybody, it will count one, and if the ultrasonic exit is detected, it will decrease the count by one. 
