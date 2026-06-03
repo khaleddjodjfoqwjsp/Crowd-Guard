@@ -177,8 +177,8 @@ void loop() {
 3. This project was developed as a smart, crowded system automated solution using real-time sensors to monitor room saturation, manage crowd flows, and prevent its impacts before occurs.
 
 ## 💻 Project Image
-![Project Structure](<img width="809" height="695" alt="b307dcd212cb40f188663d961756dfdf" src="https://github.com/user-attachments/assets/853ec550-e1a2-4da1-b3e1-420f5734aa3f" />
-)
+<img width="809" height="695" alt="b307dcd212cb40f188663d961756dfdf" src="https://github.com/user-attachments/assets/01ebeb18-210f-45a4-a934-69e766247687" />
+
 
 ## 📄 Magizine 
 
