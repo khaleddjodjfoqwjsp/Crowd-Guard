@@ -1,15 +1,13 @@
 # Crowd-Guard
 Smart Crowd Density System detects individuals in public areas. using the number of people entering, to regulate crowds with its features. Specifically in malls and metros that are full of people.
 
----
-
 ## ⚽ purposes
 - Egypt faces several interconnected grand challenges and deals with exponential population growth, such as reducing urban congestion, which is one of the most crowded countries in the world.
 - has one of the most crowded cities, which is Cairo, where it is the 7th most crowded city in the world.
 - This issue is reflected in closed facilities, particularly metros and malls, thus it affects individuals harmfully in multiple ways.
 - increases accidents in closed places and even leads to death, also reduces public services badly.
   
----
+
 
  ### 🛠️ Bill of Materials (BOM)
  
