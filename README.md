@@ -181,8 +181,7 @@ void loop() {
 
 
 ## 📄 Magizine 
-
-[Magazine of Crowd Guard.pdf](https://github.com/user-attachments/files/28335311/Magazine.of.Crowd.Guard.pdf)
+![Project Structure][Magazine of Crowd Guard.pdf](https://github.com/user-attachments/files/28335311/Magazine.of.Crowd.Guard.pdf)
 
 ### 📐 Project Files & Downloads
 
