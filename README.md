@@ -190,8 +190,8 @@ void loop() {
 <img width="627" height="895" alt="68e6218d9e3944f9a0d9e5dc418883ef" src="https://github.com/user-attachments/assets/63498329-2ceb-4854-b30c-644aeea82923" />
 
 ## 📐 Project Files & Downloads
-[3D design](https://cad.onshape.com/documents/9b3eec702d73ff7e06d34b59/w/650e038821f09e03938fbb0c/e/957b83b2bb7a67a6845c884b)
-<br>[PCB design]( https://oshwlab.com/khaled.ksa4all/project_fiymuecy)
+[3D design link](https://cad.onshape.com/documents/9b3eec702d73ff7e06d34b59/w/650e038821f09e03938fbb0c/e/957b83b2bb7a67a6845c884b)
+<br>[PCB design link]( https://oshwlab.com/khaled.ksa4all/project_fiymuecy)
 <br>[BOM](https://github.com/user-attachments/files/28560462/BOM.csv)
 
 
