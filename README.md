@@ -176,6 +176,10 @@ void loop() {
 2. particularly the reduction of urban congestion, which has one of the most crowded cities, Cairo, that ranks 7th in the world in terms of overcrowding in closed public facilities, metros, and malls, posing safety risks, and also reducing public efficiency, leading to accidents.
 3. This project was developed as a smart, crowded system automated solution using real-time sensors to monitor room saturation, manage crowd flows, and prevent its impacts before occurs.
 
+## 💻 Project Image
+![Project Structure](<img width="809" height="695" alt="b307dcd212cb40f188663d961756dfdf" src="https://github.com/user-attachments/assets/853ec550-e1a2-4da1-b3e1-420f5734aa3f" />
+)
+
 ## 📄 Magizine 
 
 [Magazine of Crowd Guard.pdf](https://github.com/user-attachments/files/28335311/Magazine.of.Crowd.Guard.pdf)
