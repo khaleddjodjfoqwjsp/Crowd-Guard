@@ -40,19 +40,15 @@ Smart Crowd Density System detects individuals in public areas. using the number
  | **65pcs jumper wires** | 1 | 0.75$ | https://free-electronic.com/product/65pcs-flexible-breadboard-jumper-wires/ |
  | **passive buzzer** | 1 | 0.47$ | https://free-electronic.com/product/passive-buzzer-module/ |  
  | **resistor** | 10 | 0.14$ | https://free-electronic.com/product/resistor-15-ohm-1w/ | 
- 
----
 
-### 🔌 Wiring Diagram & Pinouts
+## 🔌 Wiring Diagram & Pinouts
 
 * **Ultrasonic sensor 1 (IN):** Trig -> Pin 5, Echo -> Pin 4
 * **Ultrasonic sensor 2 (OUT):** Trig -> Pin 3, Echo -> Pin 2
 * **LCD Display (16x2):** Rs -> Pin 7, E -> Pin 8, DB4 -> Pin 9, DB5 -> Pin 10, DB 6 -> Pin 11, DB7 -> Pin 12
 * **Indicators:** Red LED -> A0, Green LED -> A1, Buzzer -> Pin 6
 
----
-
-### 🤖 Arduino code 
+## 🤖 Arduino code 
 
 ```cpp
 #include <LiquidCrystal.h>
@@ -149,9 +145,7 @@ void loop() {
   }
 }
 ```
----
-
-### 🪚 How to build step-by-step
+## 🪚 How to build step-by-step
 
 1. Bring all the components from the (BOM) section.
 2. Connect the Arduino Uno to the breadboard and wire the two HC-SR04 ultrasonic sensors to the negative and positive for the GND and Vcc, in order, then the trig and echo pins connect to the Arduino Pins as shown in the Wiring Diagram & Pinout section.
@@ -159,9 +153,7 @@ void loop() {
 4. Open the firmware, then open Crowd_Guard.ino file using the Arduino IDE, connect your Arduino Uno via USB, and upload the source code.
 5. Finally, the system will start and display visitors: 0 once a person passes sensor 1, then sensor 2, and the green LED lights. If the room is full of people and hits its maximum limit, the red LED lights up, and the buzzer activates.
 
----
-
-### 🔬 Testing Procedures
+## 🔬 Testing Procedures
 
 **To verify that the system performs its function correctly, follow these steps.**
 
@@ -172,20 +164,16 @@ void loop() {
 3. *Counter verification:* Wave your hand in front of the ultrasonic sensor, then the LCD must update from visitors: 0 to visitors: 1.
 
 4. *Alert Test:* simulate the entire system until the counter reaches your set maxpeople, then ensure the Red LED immediately switches on, the Green LED turns off, and the Buzzer makes a sound while the LCD reads "ROOM is FULL".
- 
----
 
-### 🗣️ Motivation
+## 🗣️ Motivation
+1. The Motivation behind Crowd Guard comes from the grand challenges that face Egypt.
+2. particularly the reduction of urban congestion, which has one of the most crowded cities, Cairo, that ranks 7th in the world in terms of overcrowding in closed public facilities, metros, and malls, posing safety risks, and also reducing public efficiency, leading to accidents.
+3. This project was developed as a smart, crowded system automated solution using real-time sensors to monitor room saturation, manage crowd flows, and prevent its impacts before occurs.
 
-The Motivation behind Crowd Guard come from the grand challenges that face Egypt, particularly the reduction of urban congestion, which has one of the most crowded cities, Cairo, that ranks 7th in the world in terms of overcrowding in closed public facilities, metros, and malls, posing safety risks, and also reducing public efficiency, leading to accidents. This project was developed as a smart, crowded system automated solution using real-time sensors to monitor room saturation, manage crowd flow, and prevent its impacts before occurs.
-
----
-
-### 📄 Magizine 
+## 📄 Magizine 
 
 [Magazine of Crowd Guard.pdf](https://github.com/user-attachments/files/28335311/Magazine.of.Crowd.Guard.pdf)
 
----
 ### 📐 Project Files & Downloads
 
 * **CAD Model:** https://www.tinkercad.com/things/8HilV4kWgzi-dazzling-stantia-jarv/editel?returnTo=%2Fthings%2F8HilV4kWgzi-dazzling-stantia-jarv&sharecode=XAZO_gPVFohwqqy-DORh4Og6WR8cnIsBU40W7ztHvt8
