@@ -8,13 +8,13 @@ Smart Crowd Density System detects individuals in public areas. using the number
 - increases accidents in closed places and even leads to death, also reduces public services badly.
 
 ## 📄 Description
-•	Crowd Guard is a system that detects people who enter and leave closed places using an ultrasonic sensor connected to the microcontroller Atmega328p, which is the brain of this project.
-•	The ultrasonic sensor sends waves and measures the reflected waves to determine whether there are people.
-•	There are two ultrasonic sensors, one on the entrance and the other on the exit.
-•	If the ultrasonic entrance detects anybody, it will count one, and if the ultrasonic exit is detected, it will decrease the count by one. 
-•	Ultrasonic sensors send the signal to the microcontroller, and display the number of people entering and exiting on the LCD.
-•	If the number of people in the closed place exceeds the limit, it sends a signal to the buzzer to turn it on. 
-•	There are green and red lights to display if the region is saturated with people or not, thus, it can regulate the crowd efficiently and warn people of this problem and reduce multiple accident come from crowding.
+<br>•	Crowd Guard is a system that detects people who enter and leave closed places using an ultrasonic sensor connected to the microcontroller Atmega328p, which is the brain of this project.
+<br>•	The ultrasonic sensor sends waves and measures the reflected waves to determine whether there are people.
+<br>•	There are two ultrasonic sensors, one on the entrance and the other on the exit.
+<br>•	If the ultrasonic entrance detects anybody, it will count one, and if the ultrasonic exit is detected, it will decrease the count by one. 
+<br>•	Ultrasonic sensors send the signal to the microcontroller, and display the number of people entering and exiting on the LCD.
+<br>•	If the number of people in the closed place exceeds the limit, it sends a signal to the buzzer to turn it on. 
+<br>•	There are green and red lights to display if the region is saturated with people or not, thus, it can regulate the crowd efficiently and warn people of this problem and reduce multiple accident come from crowding.
   
 
 
