@@ -1,11 +1,20 @@
 # Crowd-Guard
 Smart Crowd Density System detects individuals in public areas. using the number of people entering, to regulate crowds with its features. Specifically in malls and metros that are full of people.
 
-## ⚽ purposes
+## ⚽ Purposes
 - Egypt faces several interconnected grand challenges and deals with exponential population growth, such as reducing urban congestion, which is one of the most crowded countries in the world.
 - has one of the most crowded cities, which is Cairo, where it is the 7th most crowded city in the world.
 - This issue is reflected in closed facilities, particularly metros and malls, thus it affects individuals harmfully in multiple ways.
 - increases accidents in closed places and even leads to death, also reduces public services badly.
+
+## 📄 Description
+•	Crowd Guard is a system that detects people who enter and leave closed places using an ultrasonic sensor connected to the microcontroller Atmega328p, which is the brain of this project.
+•	The ultrasonic sensor sends waves and measures the reflected waves to determine whether there are people.
+•	There are two ultrasonic sensors, one on the entrance and the other on the exit.
+•	If the ultrasonic entrance detects anybody, it will count one, and if the ultrasonic exit is detected, it will decrease the count by one. 
+•	Ultrasonic sensors send the signal to the microcontroller, and display the number of people entering and exiting on the LCD.
+•	If the number of people in the closed place exceeds the limit, it sends a signal to the buzzer to turn it on. 
+•	There are green and red lights to display if the region is saturated with people or not, thus, it can regulate the crowd efficiently and warn people of this problem and reduce multiple accident come from crowding.
   
 
 
