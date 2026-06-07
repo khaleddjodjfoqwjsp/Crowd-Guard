@@ -1,4 +1,6 @@
-   <img width="700" height="200" alt="Crowd_Guard" src="https://github.com/user-attachments/assets/acad20d2-2193-4b4c-aaeb-b5ae00c71323" />
+<p align="center">
+ <img width="700" height="200" alt="Crowd_Guard" src="https://github.com/user-attachments/assets/acad20d2-2193-4b4c-aaeb-b5ae00c71323" />
+</p>
 
 Smart Crowd Density System detects individuals in public areas. using the number of people entering, to regulate crowds with its features. Specifically in malls and metros that are full of people.
 
