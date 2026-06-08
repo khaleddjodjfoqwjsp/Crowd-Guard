@@ -191,7 +191,7 @@ void loop() {
 <img width="1045" height="537" alt="d0c6e67c37df4b7da321e62b8df305c9" src="https://github.com/user-attachments/assets/7d5a754c-ec6e-4ea2-afa4-4a4103aab16e" />
 
 ## 📄 Magizine 
-<img width="627" height="895" alt="68e6218d9e3944f9a0d9e5dc418883ef" src="https://github.com/user-attachments/assets/63498329-2ceb-4854-b30c-644aeea82923" />
+[Magazine of Crowd Guard (2).pdf](https://github.com/user-attachments/files/28718229/Magazine.of.Crowd.Guard.2.pdf)
 
 ## 📐 Project Files & Downloads
 [3D design link](https://cad.onshape.com/documents/9b3eec702d73ff7e06d34b59/w/650e038821f09e03938fbb0c/e/957b83b2bb7a67a6845c884b)
