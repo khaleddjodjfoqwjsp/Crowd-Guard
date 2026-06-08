@@ -194,7 +194,7 @@ void loop() {
 
 ## 📐 Project Files & Downloads
 [3D design link](https://cad.onshape.com/documents/9b3eec702d73ff7e06d34b59/w/650e038821f09e03938fbb0c/e/957b83b2bb7a67a6845c884b)
-<br>[PCB design link]( https://oshwlab.com/khaled.ksa4all/project_fiymuecy)
+<br>[PCB design link](https://u.easyeda.com/join?type=project&key=cdb714bca80db3ceb284dd6b91757dd1&inviter=98e19a895f66457f9303f5d792545d7f)
 <br>[BOM](https://github.com/user-attachments/files/28560462/BOM.csv)
 
 
