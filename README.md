@@ -49,6 +49,7 @@ Smart Crowd Density System detects individuals in public areas. using the number
  | **Capacitor (100pF)** | 1 | 0.019$ | https://free-electronic.com/product/ceramic-capacitor-100nf-50v/ |
  | **Resistor (220 ohm)** | 10 | 0.29$ | https://free-electronic.com/product/resistor-220-ohm-3w/ |
  | **Pin Header 1x4** | 2 | 0.058$ | https://www.ram-e-shop.com/shop/ph35-1x4-female-ph35-pin-header-female-1x4-straight-2-54mm-6976?category=52 |
+ | **Total Price** | | 15.952$ | |
  
 ## 🔌 Wiring Diagram & Pinouts
 
