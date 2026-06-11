@@ -182,7 +182,7 @@ void loop() {
 
 ## 💻 Project Images
 ### Project Structure 
-<img width="809" height="695" alt="b307dcd212cb40f188663d961756dfdf" src="https://github.com/user-attachments/assets/01ebeb18-210f-45a4-a934-69e766247687" />
+<img width="550" height="453" alt="Screenshot_2026-06-10_111659-removebg-preview" src="https://github.com/user-attachments/assets/9d065d3d-5a50-4261-8d39-fc5b889cb468" />
 
 ### Board Holder 
 <img width="1028" height="547" alt="84e5f9161117451d82acebd2f291468f" src="https://github.com/user-attachments/assets/b2caf262-fe3c-4bbf-ad74-ffd915961a5c" />
