@@ -5,32 +5,28 @@
 Smart Crowd Density System detects individuals in public areas. using the number of people entering, to regulate crowds with its features. Specifically in malls and metros that are full of people.
 
 ## ⚽ Purposes
-- Egypt faces several interconnected grand challenges and deals with exponential population growth, such as reducing urban congestion, which is one of the most crowded countries in the world.
-- has one of the most crowded cities, which is Cairo, where it is the 7th most crowded city in the world.
-- This issue is reflected in closed facilities, particularly metros and malls, thus it affects individuals harmfully in multiple ways.
-- increases accidents in closed places and even leads to death, also reduces public services badly.
+- In Egypt, eleven grand challenges cause multiple issues, one of which is to reduce urban congestion, where Egypt is one of the most crowded regions in the world.
+- Specifically in Cairo, it has a problem that comes from the reduced urban congestion grand challenge, which is the overcrowding in closed places such as malls and metros.
+- Cairo ranks as the 7th most crowded city in the world.
+- I face many decreases in public services, or accidents happen, even leading to death, in closed places, due to overcrowding.
 
 ## 📄 Description
-- Crowd Guard is a system that detects people who enter and leave closed places using an ultrasonic sensor connected to the microcontroller Atmega328p, which is the brain of this project.
-- The ultrasonic sensor sends waves and measures the reflected waves to determine whether there are people.
-- There are two ultrasonic sensors, one on the entrance and the other on the exit.
-- If the ultrasonic entrance detects anybody, it will count one, and if the ultrasonic exit is detected, it will decrease the count by one. 
-- Ultrasonic sensors send the signal to the microcontroller, and display the number of people entering and exiting on the LCD.
-- If the number of people in the closed place exceeds the limit, it sends a signal to the buzzer to turn it on. 
-- There are green and red lights to display if the region is saturated with people or not, thus, it can regulate the crowd efficiently and warn people of this problem and reduce multiple accident come from crowding.
+- Crowd Guard is like a keeper of your place, which won't let the overcrowding flow into the location. 
+- It balanced the number of people inside the place by detecting their number with the ultrasonic sensor, which connects to the microcontroller Atmega328p. Moreover, displaying the number on the LCD screen.
+- There are two ultrasonic sensors, one in the entrance and the other in the exit. When anyone enters the place, they will be detected by the ultrasonic entrance and counted on the LCD. On the other hand, when anyone leaves the place, the exit ultrasonic sensor will decrease the number on the LCD
+- When it determines the number of people over the limit that the place can handle, it shows a warning on the LCD screen and turns on the red light with a buzzer sound to warn people. 
+- When the limit returns to the regular number of individuals, the red light will turn off and a green light will turn on, removing the LCD warning. 
+
 
 ## 📈 Usage
-1. If the system were applied in real life, it would be connected with electronic doors in the metros to make it affordable with the number of people.
-   - Manage the number of people.
-   - Warn the workers in the facility.
-   - Save many people from the impact of the crowd.
-   - Direct the people who can't enter the entrance to another one 
-2. Set it up on the metros
-   - Limit the number of people who can enter the station to avoid danger.
-   - Direct them to another station instead of the full one
-  
+1. The system will be applied in real life, particularly in metros and malls, because they are the most crowded places.
+ - The system will be connected with smart doors, where the limit exists, the doors will be closed.
+ - For example, in the motor station, when the number exceeds the limit, the entrance will be closed until the number returns to normal. Furthermore, the screen will show another unsaturated station to direct people who couldn’t enter. 
+2. When the system is set up in this way, it will 
+ - Manage the crowd
+ - Address the consequences of being crowded in closed places, including a decrease in public services, or save people from disasters.
+
  ## 🛠️ Bill of Materials (BOM)
- 
  | Component | Quantity | Price | Purchase link |
  | :--- | :---: | :--- | :--- |
  | **ATMEGA328P-U** | 1 | 3.63$ | https://free-electronic.com/product/atmega328p-u/ |
@@ -52,7 +48,6 @@ Smart Crowd Density System detects individuals in public areas. using the number
  | **Total Price** | | 15.952$ | |
  
 ## 🔌 Wiring Diagram & Pinouts
-
 * **Ultrasonic sensor 1 (IN):** Trig -> Pin 5, Echo -> Pin 4
 * **Ultrasonic sensor 2 (OUT):** Trig -> Pin 3, Echo -> Pin 2
 * **LCD Display (16x2):** Rs -> Pin 7, E -> Pin 8, DB4 -> Pin 9, DB5 -> Pin 10, DB 6 -> Pin 11, DB7 -> Pin 12
@@ -156,7 +151,6 @@ void loop() {
 }
 ```
 ## 🪚 How to build step-by-step
-
 1. Bring all the components from the (BOM) section.
 2. Connect the Arduino Uno to the breadboard and wire the two HC-SR04 ultrasonic sensors to the negative and positive for the GND and Vcc, in order, then the trig and echo pins connect to the Arduino Pins as shown in the Wiring Diagram & Pinout section.
 3. Connect the 16x2 LCD screen, LEDs, and Buzzer according to the Pinouts diagram above; moreover, the GND for them all is in the negative breadboard below.
@@ -164,21 +158,17 @@ void loop() {
 5. Finally, the system will start and display visitors: 0 once a person passes sensor 1, then sensor 2, and the green LED lights. If the room is full of people and hits its maximum limit, the red LED lights up, and the buzzer activates.
 
 ## 🔬 Testing Procedures
-
-**To verify that the system performs its function correctly, follow these steps.**
-
-1. *Power check:* Connects to your laptop or computer via USB. Ensure that the green power LED on the Arduino board turns on and the 16x2 lights up as well.
-
-2. *Sensor test:* By observing the distance readings. Ensure both ultrasonic sensors display values when your hand moves closer/ further.
-
-3. *Counter verification:* Wave your hand in front of the ultrasonic sensor, then the LCD must update from visitors: 0 to visitors: 1.
-
-4. *Alert Test:* simulate the entire system until the counter reaches your set maxpeople, then ensure the Red LED immediately switches on, the Green LED turns off, and the Buzzer makes a sound while the LCD reads "ROOM is FULL".
+**The test plan is used to ensure the prototype's efficiency and stability through multiple tests.**
+1.	After uploading the code to the microcontroller, check that the system works out and the green LED lights up to see if the prototype gets the power correctly.
+2. Secondly, ensure the sensors are reading, including the ultrasonic sensor, by putting an object in front of it, and observing if it does its function.
+3. Then the LCD must count the number of visitors every time an object moves forward in front of the ultrasonic sensor.
+4. To ensure the Red LED and the buzzer work, try to reach the maximum number of people, then observe if the Red LED turns on and the buzzer as well.
 
 ## 🗣️ Motivation
-1. The Motivation behind Crowd Guard comes from the grand challenges that face Egypt.
-2. particularly the reduction of urban congestion, which has one of the most crowded cities, Cairo, that ranks 7th in the world in terms of overcrowding in closed public facilities, metros, and malls, posing safety risks, and also reducing public efficiency, leading to accidents.
-3. This project was developed as a smart, crowded system automated solution using real-time sensors to monitor room saturation, manage crowd flows, and prevent its impacts before occurs.
+- The motivation behind Crowd Guard comes from the fact that while I searched about the issues in Egypt, I found out that the eleven grand challenges are reducing urban congestion.
+- Egypt is one of the most crowded countries in the world; moreover, the capital Cairo is ranked the 7th most crowded city in the world with its multiple metros and facilities.
+- I want to make a new solution that will contribute to the comfort and consistent quality for citizens or tourists when they come to my country. 
+
 
 ## 💻 Project Images
 ### Project Structure 
