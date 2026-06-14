@@ -151,11 +151,14 @@ void loop() {
 }
 ```
 ## 🪚 How to build step-by-step
-1. Bring all the components from the (BOM) section.
-2. Connect the Arduino Uno to the breadboard and wire the two HC-SR04 ultrasonic sensors to the negative and positive for the GND and Vcc, in order, then the trig and echo pins connect to the Arduino Pins as shown in the Wiring Diagram & Pinout section.
-3. Connect the 16x2 LCD screen, LEDs, and Buzzer according to the Pinouts diagram above; moreover, the GND for them all is in the negative breadboard below.
-4. Open the firmware, then open Crowd_Guard.ino file using the Arduino IDE, connect your Arduino Uno via USB, and upload the source code.
-5. Finally, the system will start and display visitors: 0 once a person passes sensor 1, then sensor 2, and the green LED lights. If the room is full of people and hits its maximum limit, the red LED lights up, and the buzzer activates.
+1. Get all components from the Bill of Materials (BOM) table.
+2. Print the 3D structure of the project via CAD files.
+3. Print the board from the PCB files, as the board relies on the microcontroller Atmega328P, which is the brain of the project.
+4. Integrate the components with the circuit by connecting the LCD and the ultrasonic sensor to the pin headers.
+5.	Put the ultrasonic sensor in the eye holes in the 3D design; moreover, the LCD is in the mouth of the system.
+6. Link a wire between the microcontroller and a laptop, then convert the C++ code from a firmware file, and then upload the code to it.
+7. Close the prototype, and it will work, showing the LCD readings. 
+
 
 ## 🔬 Testing Procedures
 **The test plan is used to ensure the prototype's efficiency and stability through multiple tests.**
